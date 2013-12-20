@@ -1,6 +1,6 @@
 # hexo-generator-cname
 
-Github pages CNAME file generator plugin for [Hexo](https://npmjs.org/package/hexo).
+A very simple plugin to generate a Github pages CNAME file automatically for [Hexo](https://npmjs.org/package/hexo).
 
 ## Usage
 
@@ -17,14 +17,6 @@ Add `hexo-generator-cname` to `plugins` in `_config.yml`.
 ``` yaml
 plugins:
 - hexo-generator-cname
-```
-
-### Uninstall
-
-Execute the following command (don't forget to remove `hexo-generator-cname` from `plugins` in `_config.yml` first):
-
-```
-npm uninstall hexo-generator-cname
 ```
 
 ## License
