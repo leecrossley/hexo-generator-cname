@@ -1,0 +1,29 @@
+{
+  "name": "hexo-generator-cname",
+  "author": "Lee Crossley <leee@hotmail.co.uk> (http://ilee.co.uk/)",
+  "description": "Github pages CNAME generator plugin for Hexo",
+  "homepage": "http://ilee.co.uk",
+  "version": "0.1.0",
+  "main": "index.js",
+  "keywords": [
+    "hexo",
+    "cname",
+    "gh-pages",
+    "github",
+    "pages"
+  ],
+  "contributors": [
+    {
+      "name": "Lee Crossley",
+      "email": "leee@hotmail.co.uk"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leecrossley/grunt-pause"
+  },
+  "engines": {
+    "hexo": ">= 1.0.x",
+    "node": ">= 0.8.x"
+  }
+}
