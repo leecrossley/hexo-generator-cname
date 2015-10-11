@@ -25,5 +25,8 @@
   "engines": {
     "hexo": ">= 1.0.x",
     "node": ">= 0.8.x"
+  },
+  "scripts": {
+    "test": "mocha test.js"
   }
 }
