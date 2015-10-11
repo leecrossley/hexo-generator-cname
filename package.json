@@ -3,7 +3,7 @@
   "author": "Lee Crossley <leee@hotmail.co.uk> (http://ilee.co.uk/)",
   "description": "Github pages CNAME generator plugin for Hexo",
   "homepage": "http://ilee.co.uk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "index.js",
   "keywords": [
     "hexo",
