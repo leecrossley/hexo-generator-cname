@@ -10,14 +10,7 @@ A very simple plugin to generate a Github pages CNAME file automatically for [He
 npm install hexo-generator-cname --save
 ```
 
-### Enable
-
-Add `hexo-generator-cname` to `plugins` in `_config.yml`.
-
-``` yaml
-plugins:
-- hexo-generator-cname
-```
+CNAME file will be generated from the URL property of _config.xml.
 
 ## License
 
